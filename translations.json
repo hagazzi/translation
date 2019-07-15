@@ -414,7 +414,7 @@
     "UI.reputation_unlocks_desc": "Vérifie quel niveau de réputation est atteint sur le personnage. Lisbeth les prendra en compte pour les calculs de disponibilité (ressources et synthèses).",
     "UI.quest_unlocks": "Quêtes",
     "UI.quest_unlocks_desc": "Vérifie les Quêtes complétées par le personnage. Lisbeth s'en servira pour calculer les l'obtention ou non de certaines aptitudes, notamment les aptitudes de synthèse ou de récupération de PR.",
-	"UI.time": "Temps",
+    "UI.time": "Temps",
     "UI.start_time": "Départ",
     "UI.pre_gp": "Avant utilisation PR",
     "UI.gp_usage": "Utilisation de PR",
@@ -422,7 +422,7 @@
     "UI.post_gp": "Après Utilisation de PR",
     "UI.schedule_view_title": "Planificateur des points intact, éphémères et légendaire",
     "UI.schedule_view_desc": "Ici il est possible de voir le planning des points intact, éphémères et légendaire quand Lisbeth est lancé. Les interval horaires représent les possibilités de récolte de points, et sont calculés en fonction de la régénération de PR, l'utilisation de breuvage cordial, et du coût en PR des macros de récolte.",
-	// Errors
+    // Errors
     "UI.error_no_active_masterpieces": "Aucune option sélectionnées d'échange collectionnable peut être utilisée pour [1]. Ajoutez-en dans les options d'échange collectionnable.", 
     "UI.error_inactive_duty": "L'action d'échange collectionnable pour [1] est inactif actuellement. vous pouvez l'activer dans les options d'échange collectionnable.",
     "UI.error_missing_gearset": "Un numéro de tenue est nécessaire pour [1].", 
@@ -434,7 +434,7 @@
     "UI.error_missing_reputation": "vous devez atteindre le rang de [1] dans [2] pour acheter cet objet.",
     "UI.error_missing_book": "vous devez apprendre les recette du tome suivant [1].",
     "UI.error_missing_quest": "vous avez besoin d'avoir fini la quête [1].",
-	// ENUM OrderType
+    // ENUM OrderType
     "OrderType.Production": "Synthèse",
     "OrderType.Desynthesize": "Recycler",
     "OrderType.Spiritbind": "Symbiose",
@@ -541,8 +541,7 @@
     "Log.missing_ingredients": "Certains ingrédients sont manquants.",
     "Log.opening_recipe": "Sélection de la recette [1].",
     "Log.error_macro_not_usable": "Impossible d'utiliser la macro [1] pour la synthèse de [2]."
-  
-  },
+    },
   "German": {
     
   }
