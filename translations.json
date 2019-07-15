@@ -147,7 +147,7 @@
     "UI.post_gp": "Post-GP",
     "UI.schedule_view_title": "Timed Node Schedule",
     "UI.schedule_view_desc": "Here you can see the schedule of timed nodes once Lisbeth is running. The slots represent opportunities to gather the nodes, and are calculated based on GP regeneration, cordial usage, and macro costs.",
-	// Errors
+    // Errors
     "UI.error_no_active_masterpieces": "No active masterpiece options that can be exchanged for [1]. Add some options on the Masterpieces settings.",
     "UI.error_inactive_duty": "The masterpiece duty for [1] is inactive right now. You can activate it on the Masterpieces settings.",
     "UI.error_missing_gearset": "You need to have a gearset for [1].",
