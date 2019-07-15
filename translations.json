@@ -541,8 +541,7 @@
     "Log.missing_ingredients": "Certains ingrédients sont manquants.",
     "Log.opening_recipe": "Sélection de la recette [1].",
     "Log.error_macro_not_usable": "Impossible d'utiliser la macro [1] pour la synthèse de [2]."
-	  
-  },
+    },
   "German": {
     
   }
