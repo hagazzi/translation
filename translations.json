@@ -276,6 +276,7 @@
   },
   "French": {
     // Buttons
+    "UI.button_report": "Signaler",
     "UI.button_start_home_setup": "Paramétrer Maison Individuelle",
     "UI.button_set_open_world": "Activer Zone non Instancié",
     "UI.button_enable_lockstep": "Activer Etape par Etape",
@@ -422,6 +423,8 @@
     "UI.post_gp": "Après Utilisation de PR",
     "UI.schedule_view_title": "Planificateur des points intact, éphémères et légendaire",
     "UI.schedule_view_desc": "Ici il est possible de voir le planning des points intact, éphémères et légendaire quand Lisbeth est lancé. Les interval horaires représent les possibilités de récolte de points, et sont calculés en fonction de la régénération de PR, l'utilisation de breuvage cordial, et du coût en PR des macros de récolte.",
+    "UI.enable_macro_overrides": "Activer le mode Macro",
+    "UI.enable_macro_overrides_desc": "Les macros dont les pré-requis sont atteint et ont ete cochés seront utilisées en priorite par rapport a l'autocraft lors de l'execution de commandes et sous-commandes, meme si cette utilisation n'a pas été spécifiquement choisie dans le détail de la commande. Soyez sur de la réussite de celles-ci avant d'activer cette option.",
     // Errors
     "UI.error_no_active_masterpieces": "Aucune option sélectionnées d'échange collectionnable peut être utilisée pour [1]. Ajoutez-en dans les options d'échange collectionnable.", 
     "UI.error_inactive_duty": "L'action d'échange collectionnable pour [1] est inactif actuellement. vous pouvez l'activer dans les options d'échange collectionnable.",
